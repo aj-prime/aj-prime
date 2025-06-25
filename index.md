@@ -8,7 +8,7 @@ title: Home
 
 Senior Researcher, Microsoft | PhD in HPC + Deep Learning  
 📧 [arpan.jain1405@gmail.com](mailto:arpan.jain1405@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/aj-prime/) | [GitHub](https://github.com/aj-prime) | [Website](https://go.osu.edu/aj-prime/)
+🔗 [LinkedIn](https://www.linkedin.com/in/aj-prime/) | [GitHub](https://github.com/aj-prime) 
 
 I am Arpan Jain, a Senior Researcher at Microsoft, contributing to the AI Frameworks (AIFx) team within CoreAI. My work focuses on enhancing the performance and efficiency of deep learning inference, especially for Large Language Models (LLMs). Before this role, I worked as an Applied Scientist at Bing Ads, where I explored deep learning model optimization and novel architectures such as AMD GPUs. I also had the opportunity to present my research at NVIDIA GTC 2024.
 
