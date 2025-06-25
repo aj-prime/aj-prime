@@ -4,6 +4,7 @@ title: Home
 ---
 
 # Arpan Jain
+![Profile](assets/mypic-197x300.jpg)
 
 Senior Researcher, Microsoft | PhD in HPC + Deep Learning  
 📧 [arpan.jain1405@gmail.com](mailto:arpan.jain1405@gmail.com)  
@@ -27,9 +28,9 @@ Beyond research, I am passionate about teaching and mentoring. At The Ohio State
 
 ## 🔗 Navigate My Work
 
-- 📘 [Education](/education/)
+- 📘 [Education](/education.md/)
 - 💼 [Experience](/experience/)
-- 📄 [Publications](/publications/)
+- 📄 [Publications](/publications.md/)
 
 ---
 

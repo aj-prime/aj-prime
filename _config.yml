@@ -14,5 +14,5 @@ minima:
       url: "/education/"
     # - title: "Experience"
     #   url: "/experience/"
-    # - title: "Publications"
-    #   url: "/publications/"
+    - title: "Publications"
+      url: "/publications/"
