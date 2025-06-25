@@ -8,8 +8,8 @@ linkedin_username: aj-prime
 
 minima:
   navigation:
-    - title: "Home"
-      url: "/"
+    # - title: "Home"
+    #   url: "/"
     - title: "Academic Lineage"
       url: "/academic_lineage/"
     - title: "Education"
