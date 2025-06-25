@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Education
+title:🎓 Education
 permalink: /education/
 ---
-# 🎓 Education
+
 
 ## Ph.D. in High-Performance Deep Learning  
 **The Ohio State University**, Columbus, OH, USA  
