@@ -54,3 +54,5 @@ permalink: /publications/
 - **SLTU, 2018**
 
     Sahu, S., Jain, A., Tiwari, R., Shukla, A. (2018) Application of Egyptian Vulture Optimization in Speech Emotion Recognition. Proc. The 6th Intl. Workshop on Spoken Language Technologies for Under-Resourced Languages, 230-234, DOI: 10.21437/SLTU.2018-48.
+
+[← Back to Home](/index.md)

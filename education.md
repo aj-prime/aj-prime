@@ -46,3 +46,5 @@ permalink: /education/
   Courses: Artificial Intelligence (CSE 3521), High-Performance Deep Learning (CSE 5449)  
 - **Instructor**, Ohio Supercomputer Center AI Bootcamp (2021–2022)  
 - **Mentorship**: Guided undergraduate, master’s, and Ph.D. students in HPC-AI projects
+
+[← Back to Home](/index.md)

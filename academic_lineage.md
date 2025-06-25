@@ -37,3 +37,6 @@ permalink: /academic_lineage/
         - Advisor: [Johann Bernoulli](http://genealogy.math.ndsu.nodak.edu/html/id.phtml?id=53410), 1694 … [biography](http://www.shu.edu/html/teaching/math/reals/history/bernoull.html)
         - Advisor: [Jacob Bernoulli](http://genealogy.math.ndsu.nodak.edu/html/id.phtml?id=54440) 1684 … [biography](http://www.maths.tcd.ie/pub/HistMath/People/Bernoullis/RouseBall/RB_Bernoullis.html#JamesBernoulli)
         - Advisor: [Gottfried Wilhelm Leibniz](http://genealogy.math.ndsu.nodak.edu/id.php?id=60985) 1666 … [biography](http://www-gap.dcs.st-and.ac.uk/%7Ehistory/Mathematicians/Leibniz.html)
+
+
+[← Back to Home](/index.md)
