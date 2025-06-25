@@ -1,3 +1,18 @@
-title: "Arpan Jain"
-description: "Senior Researcher | DL + HPC"
-theme: jekyll-theme-minimal
+theme: minima
+title: Arpan Jain
+email: arpan.jain1405@gmail.com
+description: >
+  Deep Learning | High-Performance Computing | Scalable AI
+github_username: aj-prime
+linkedin_username: aj-prime
+
+minima:
+  navigation:
+    - title: "Home"
+      url: "/"
+    - title: "Education"
+      url: "/education/"
+    # - title: "Experience"
+    #   url: "/experience/"
+    # - title: "Publications"
+    #   url: "/publications/"
