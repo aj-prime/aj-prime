@@ -10,6 +10,8 @@ minima:
   navigation:
     - title: "Home"
       url: "/"
+    - title: "Academic Lineage"
+      url: "/academic_lineage/"
     - title: "Education"
       url: "/education/"
     # - title: "Experience"
