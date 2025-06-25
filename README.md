@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Hi, I’m Arpan Jain, a Senior Researcher at Microsoft working on deep learning inference for Large Language Models within the AI Frameworks team. I earned my Ph.D. in High-Performance Deep Learning from The Ohio State University, where I developed novel parallelization strategies for distributed DNN training. My work spans across Deep Learning traning and inference frameworks like LBANN, MVAPICH2, and DeepSpeed, with publications in top HPC and AI conferences. I enjoy building scalable AI systems and have previously worked on speech analysis, time series modeling, and computer vision. I’m also passionate about mentoring and sharing knowledge through teaching and community engagement in HPC-AI forums.
+
 <!--
 **aj-prime/aj-prime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
