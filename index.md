@@ -49,6 +49,10 @@ Beyond research, I am passionate about teaching and mentoring. At The Ohio State
 - **LinkedIn:** [aj-prime](https://linkedin.com/in/aj-prime)  
 - **GitHub:** [aj-prime](https://github.com/aj-prime)
 
+## 📄 Resume
+
+[Download PDF](assets/Arpan_Jain_Resume.pdf)
+
 ## 📄 Full CV
 
 [Download PDF](assets/ArpanJain_CV.pdf)
